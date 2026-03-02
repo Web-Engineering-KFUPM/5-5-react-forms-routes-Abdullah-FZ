@@ -26,6 +26,9 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/registration" element={<Registration />} />
+
+          {/* ✅ REQUIRED 404 ROUTE */}
+          <Route path="*" element={<h2>404 - Page Not Found</h2>} />
         </Routes>
       </main>
 
