@@ -26,7 +26,7 @@ The app will have **three pages**:
 
 ---
 
-## Reading Assignment
+## Reading Assignment ..
 
 Before starting, read these Zybook sections carefully:
 

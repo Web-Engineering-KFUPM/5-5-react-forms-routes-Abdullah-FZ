@@ -4,11 +4,11 @@
 //
 // Follow these steps to set up and run your React project:
 //
-// 1) Open your terminal and navigate into the project folder.
+// 1) Open your terminal and navigate into the project folder. hhhh
 //    Example:
 //      cd 5-5-react-route-form
 //
-// 2) Install all required dependencies.
+// 2) Install all required dependencies. gg
 //    Command:
 //      npm i
 //      (or)
